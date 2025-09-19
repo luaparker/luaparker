@@ -13,13 +13,11 @@ I love building clean, performant websites that make a real impact. My goal is t
 
 ---
 
-### 🔥 Featured Projects
- [Oreen - Car Rental App](https://oreen.molaraiche.com/) -  [Nexton - Modern E-commerce](https://nexton.molaraiche.com/) - [Dental Appointment Web App](https://dental.molaraiche.com/) - [Beesound - E-commerce Website](https://beesound.molaraiche.com/)  
 
 ---
 
 ### 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/) - [Portfolio](https://www.mohamedlaraiche.com/en)  - [X (Twitter)](https://x.com/molaraiche)  
+- [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/1) - [Portfolio](https://www.mohamedlaraiche.com/en)  - [X (Twitter)](https://oix.com/molaraiche)  
 
 ---
 
